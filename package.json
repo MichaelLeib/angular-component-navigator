@@ -4,6 +4,7 @@
   "description": "Jump to selected component from the Angular HTML file.",
   "version": "0.0.1",
   "publisher": "Michael Leib",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.96.0"
   },
