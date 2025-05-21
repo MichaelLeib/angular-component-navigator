@@ -6,13 +6,13 @@ A VS Code extension that helps you quickly navigate to Angular component files f
 
 - Quickly jump to Angular component files by placing your cursor on a component tag in an HTML file
 - Supports standard Angular component selectors
-- Keyboard shortcut: `Ctrl+Shift+O` (Windows/Linux) or `Cmd+Shift+O` (Mac)
+- Keyboard shortcut: `Ctrl+Shift+G` (Windows/Linux) or `Cmd+Shift+G` (Mac)
 
 ## Usage
 
 1. Open an HTML file containing Angular component tags
 2. Place your cursor on a component tag
-3. Press `Ctrl+Shift+O` (Windows/Linux) or `Cmd+Shift+O` (Mac)
+3. Press `Ctrl+Shift+G` (Windows/Linux) or `Cmd+ShiftGP` (Mac)
 4. The extension will find and open the corresponding component file
 
 ## Requirements
